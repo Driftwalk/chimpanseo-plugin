@@ -9,6 +9,5 @@
   },
   "homepage": "https://chimpanseo.app/mcp",
   "license": "MIT",
-  "keywords": ["seo", "geo", "aeo", "content", "wordpress", "blogging", "mcp"],
-  "logo": "assets/logo.png"
+  "keywords": ["seo", "geo", "aeo", "content", "wordpress", "blogging", "mcp"]
 }
