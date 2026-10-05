@@ -1,0 +1,14 @@
+{
+  "name": "chimpanseo",
+  "displayName": "ChimpanSEO",
+  "version": "1.0.0",
+  "description": "Generate GEO/AEO-optimized articles, audit sites and publish or schedule posts on WordPress from Cursor, through the ChimpanSEO remote MCP server.",
+  "author": {
+    "name": "ChimpanSEO",
+    "email": "hello@chimpanseo.app"
+  },
+  "homepage": "https://chimpanseo.app/mcp",
+  "license": "MIT",
+  "keywords": ["seo", "geo", "aeo", "content", "wordpress", "blogging", "mcp"],
+  "logo": "assets/logo.png"
+}
