@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "chimpanseo": {
+      "url": "https://chimpanseo.app/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:CHIMPANSEO_API_KEY}"
+      }
+    }
+  }
+}
